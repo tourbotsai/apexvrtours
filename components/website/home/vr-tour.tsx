@@ -3,16 +3,13 @@ export function VrTour() {
     <section className="py-16 bg-gray-50">
       <div className="container mx-auto px-4">
         <div className="text-center mb-8">
-          <div className="inline-block bg-blue-600 text-white text-sm font-semibold tracking-wide px-5 py-2 mb-4 rounded-sm">
-            EXPERIENCE IT YOURSELF
-          </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
             Step inside a sample virtual tour
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Navigate the space just like you were there — walk through rooms, view the
-            dollhouse, and explore every detail. This is exactly what your customers will
-            experience online, around the clock.
+          <p className="text-lg text-gray-600 max-w-4xl mx-auto">
+            Explore the tour just like you were there — walk through rooms and view the
+            dollhouse. Try the AI chatbot too: ask it a question, or tell it to show you the
+            cardio area, and watch it take you there.
           </p>
         </div>
         <div className="max-w-5xl mx-auto">

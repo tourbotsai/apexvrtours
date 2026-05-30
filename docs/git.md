@@ -1,4 +1,4 @@
-git checkout -b origin/initialapexvrtourcommit
+git checkout -b apexvrtour
 git add .
-git commit -m "updated:"
-git push -u origin initialapexvrtourcommit
+git commit -m "updated: agency portal vr tour banner"
+git push -u origin apexvrtour
