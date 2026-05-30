@@ -34,7 +34,7 @@ export default function TourManagementPage() {
   var container = document.getElementById('agency-portal-f415692a-cea6-4aad-ac0f-405f6a056395');
   if (!container) return;
   var iframe = document.createElement('iframe');
-  iframe.src = 'https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true';
+  iframe.src = 'https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true&autoHeight=1';
   iframe.width = '100%';
   iframe.height = '900px';
   iframe.frameBorder = '0';
