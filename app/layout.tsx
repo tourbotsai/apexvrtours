@@ -20,6 +20,11 @@ export const metadata: Metadata = {
     "virtual tour photographer",
     "commercial property tours",
   ].join(", "),
+  icons: {
+    icon: "/logo/apexvrtours.ico",
+    shortcut: "/logo/apexvrtours.ico",
+    apple: "/logo/apexvrtours.ico",
+  },
 };
 
 export default function RootLayout({
