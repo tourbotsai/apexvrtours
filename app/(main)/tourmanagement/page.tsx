@@ -27,33 +27,21 @@ export default function TourManagementPage() {
       </section>
 
       <section className="pb-16 bg-gray-50">
-        <div id="agency-portal-f415692a-cea6-4aad-ac0f-405f6a056395"></div>
+        <div id="agency-portal-unique-gym-chatbot-1780180199874"></div>
         <Script id="agency-portal-embed" strategy="afterInteractive">
           {`
 (function() {
-  var container = document.getElementById('agency-portal-f415692a-cea6-4aad-ac0f-405f6a056395');
+  var container = document.getElementById('agency-portal-unique-gym-chatbot-1780180199874');
   if (!container) return;
   var iframe = document.createElement('iframe');
-  iframe.src = 'https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true';
+  iframe.src = 'https://tourbots.ai/embed/agency/unique-gym-chatbot?id=agency-portal-unique-gym-chatbot-1780180199874&showHeader=true';
   iframe.width = '100%';
   iframe.height = '900px';
   iframe.frameBorder = '0';
   iframe.allowFullscreen = true;
-  iframe.scrolling = 'no';
   iframe.style.width = '100%';
   iframe.style.border = '0';
   container.appendChild(iframe);
-  window.addEventListener('message', function(event) {
-    if (event.origin !== 'https://tourbots.ai') return;
-    if (event.source !== iframe.contentWindow) return;
-    var data = event.data;
-    if (!data || data.type !== 'tourbots-portal-resize') return;
-    var height = parseInt(data.height, 10);
-    if (height > 0) {
-      iframe.style.height = height + 'px';
-      iframe.setAttribute('height', String(height));
-    }
-  });
 })();
           `}
         </Script>

@@ -1,4 +1,4 @@
 git checkout -b apexvrtour
 git add .
-git commit -m "updated: advance portal embed"
+git commit -m "updated: advance portal embed v2"
 git push -u origin apexvrtour
