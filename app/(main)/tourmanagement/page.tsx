@@ -25,19 +25,15 @@ export default function TourManagementPage() {
       </section>
 
       <section className="pb-16 bg-gray-50">
-        <div className="container mx-auto px-4">
-          <div className="max-w-6xl mx-auto overflow-hidden rounded-lg shadow-2xl bg-white">
-            <iframe
-              src="https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true"
-              width="100%"
-              height="900"
-              className="w-full h-[900px] border-0"
-              frameBorder={0}
-              allowFullScreen
-              title="Apex VR Tours client management portal"
-            />
-          </div>
-        </div>
+        <iframe
+          src="https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true"
+          width="100%"
+          height="900"
+          className="block w-full h-[900px] border-0"
+          frameBorder={0}
+          allowFullScreen
+          title="Apex VR Tours client management portal"
+        />
       </section>
     </main>
   );
