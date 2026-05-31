@@ -15,7 +15,7 @@ export function VrTour() {
         <div className="max-w-5xl mx-auto">
           <div className="relative overflow-hidden rounded-lg shadow-2xl">
             <iframe
-              src="https://tourbots.ai/embed/tour/8ba11f8b-4db1-40bc-a3db-4b04e6405e02?id=tour-8ba11f8b-4db1-40bc-a3db-4b04e6405e02-1780089410970&tourId=ae65cfc6-d845-4132-8621-a5dca0bf9d96&showTitle=false&showChat=true"
+              src="https://tourbots.ai/embed/tour/952399d7-54d5-4b3e-a7b5-3b4cd925b1b8?id=tour-952399d7-54d5-4b3e-a7b5-3b4cd925b1b8-1780259185538&tourId=3a35b31f-6e60-49a1-9fbc-1c9a31575b86&showTitle=false&showChat=true"
               width="100%"
               height="600"
               className="w-full h-[600px] border-0"
