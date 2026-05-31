@@ -10,6 +10,7 @@ export const NavBar = () => {
   const navLinks = [
     { href: "/", label: "Home" },
     { href: "/services", label: "Services" },
+    { href: "/portfolio", label: "Portfolio" },
     { href: "/pricing", label: "Pricing" },
     { href: "/tourmanagement", label: "Tour Management" },
     { href: "/contact", label: "Contact" },
