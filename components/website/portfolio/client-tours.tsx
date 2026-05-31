@@ -9,7 +9,7 @@ export const ClientTours = () => {
     {
       client: "Unique Gym",
       type: "Leisure & Fitness",
-      src: "https://tours.hoteltours.ai/embed/tour/f415692a-cea6-4aad-ac0f-405f6a056395?id=tour-f415692a-cea6-4aad-ac0f-405f6a056395-1780193050619&tourId=7b43ef9c-2373-4f2f-9189-929505e25494&showTitle=false&showChat=true",
+      src: "https://tours.venuetours.ai/embed/tour/952399d7-54d5-4b3e-a7b5-3b4cd925b1b8?id=tour-952399d7-54d5-4b3e-a7b5-3b4cd925b1b8-1780261953014&tourId=956619b0-7eb6-4a69-b8b2-93bba2df4486&showTitle=false&showChat=true",
     },
   ];
 
