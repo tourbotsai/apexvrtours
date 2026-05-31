@@ -9,11 +9,11 @@ export const PortfolioHero = () => {
             OUR WORK
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            A selection of recent virtual tours
+            See some of our clients&rsquo; tours
           </h1>
           <p className="text-xl text-gray-600">
-            Explore a sample of the spaces we&rsquo;ve captured for clients across the UK —
-            from boutique hotels and event venues to restaurants, showrooms and offices.
+            Step inside real virtual tours we&rsquo;ve created for clients across the UK.
+            Explore each space, view the dollhouse and try the built-in AI chatbot.
           </p>
         </div>
       </div>
