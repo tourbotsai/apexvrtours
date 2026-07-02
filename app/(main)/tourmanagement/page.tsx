@@ -27,14 +27,14 @@ export default function TourManagementPage() {
       </section>
 
       <section className="pb-16 bg-gray-50">
-        <div id="agency-portal-952399d7-54d5-4b3e-a7b5-3b4cd925b1b8"></div>
+        <div id="agency-portal-f415692a-cea6-4aad-ac0f-405f6a056395"></div>
         <Script id="agency-portal-embed" strategy="afterInteractive">
           {`
 (function() {
-  var container = document.getElementById('agency-portal-952399d7-54d5-4b3e-a7b5-3b4cd925b1b8');
+  var container = document.getElementById('agency-portal-f415692a-cea6-4aad-ac0f-405f6a056395');
   if (!container) return;
   var iframe = document.createElement('iframe');
-  iframe.src = 'https://tourbots.ai/embed/agency-portal?agency=952399d7-54d5-4b3e-a7b5-3b4cd925b1b8&showHeader=true&autoHeight=1';
+  iframe.src = 'https://tourbots.ai/embed/agency-portal?agency=f415692a-cea6-4aad-ac0f-405f6a056395&showHeader=true&autoHeight=1';
   iframe.width = '100%';
   iframe.height = '900px';
   iframe.frameBorder = '0';
